@@ -24,7 +24,7 @@ main{
 /* setting style for active pages */
 .active{
     color: #FFFFFF;
-    background-color: #DD0000;
+    background-color: rgb(9, 122, 113);
 }
 /* setting the style for top banner */
 .top-banner{
